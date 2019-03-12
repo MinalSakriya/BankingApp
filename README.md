@@ -16,3 +16,9 @@
 - If loan approved, loan amount should be deposited into their chosen account and balance updated.
 - Customer should be able to transfer funds to and from their internal accounts with their balances updating accordingly.
 - Implement secure login authentification. 
+
+# To run the file in the browser:
+- Database name is (bankingapp)
+- Run the OnlineBankingAppApplication at the backend(Java)
+- npm install while you are in the branch
+- npm start
