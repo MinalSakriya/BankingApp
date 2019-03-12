@@ -20,5 +20,5 @@
 # To run the file in the browser:
 - Database name is (bankingapp)
 - Run the OnlineBankingAppApplication at the backend(Java)
-- npm install while you are in the branch
-- npm start
+- npm install at the frontend in terminal
+- npm start at the frontend in terminal
